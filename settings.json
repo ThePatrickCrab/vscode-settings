@@ -1,0 +1,42 @@
+{
+	"editor.rulers": [
+		80
+	],
+    "editor.formatOnPaste": true,
+	"editor.snippetSuggestions": "top",
+    "editor.acceptSuggestionOnEnter": "off",
+    "git.ignoreLegacyWarning": true,
+    "editor.renderWhitespace": "all",
+    "workbench.tree.indent": 16,
+    "workbench.tree.renderIndentGuides": "always",
+    "editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.emptySelectionClipboard": false,
+	"editor.mouseWheelZoom": true,
+	"terminal.integrated.copyOnSelection": true,
+	"workbench.colorCustomizations": {
+		"activityBar.background": "#000000",
+		"activityBar.foreground": "#f0ae01",
+		"titleBar.activeBackground": "#f0ae01",
+		"titleBar.activeForeground": "#000000",
+		"breadcrumb.foreground": "#f0ae01",
+		"editorHint.foreground": "#f0ae01",
+		"foreground": "#f0ae01",
+		"menu.foreground": "#f0ae01",
+		"menu.border": "#000000",
+		"input.border": "#000000",
+		"panelTitle.activeForeground": "#f0ae01",
+		"editor.selectionBackground": "#505038",
+		"editorBracketMatch.background": "#f0ac0198",
+		"list.activeSelectionForeground": "#080808",
+		"list.activeSelectionBackground": "#f0ac0198",
+		"badge.background": "#ff0000",
+		"tab.border": "#000000",
+		"tab.activeForeground": "#f0ae01",
+		"editorLineNumber.activeForeground": "#f0ae01",
+		"activityBarBadge.background": "#ff0000"
+	},
+	"C_Cpp.default.intelliSenseMode": "gcc-x86",
+	"C_Cpp.intelliSenseCacheSize": 1024,
+	"auto-close-tag.SublimeText3Mode": true
+}
